@@ -1,5 +1,5 @@
 #3.1 設定pandas
-...
+```
 # import numpy and pandas
 import numpy as np
 import pandas as pd
@@ -15,7 +15,7 @@ pd.set_option('display.max_rows', 10)
 pd.set_option('display.width', 80)
 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.set_option.html
-...
+```
 #3.2 建立序列
 ...
 s = pd.Series([1, 2, 3, 4])
