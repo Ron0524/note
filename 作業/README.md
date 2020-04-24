@@ -11,3 +11,10 @@
 
 - https://plotly.com/python-api-reference/generated/plotly.express.line.html
 - https://plotly.com/python/discrete-color/
+
+
+# 期中報告
+```
+金融分析
+匯率分析 預測未來匯率
+```
