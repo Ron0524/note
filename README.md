@@ -1,7 +1,7 @@
 # note
 
-https://github.com/MyDearGreatTeacher?tab=repositories
-https://github.com/taipeitechmmslab/MMSLAB-TF2
+- https://github.com/MyDearGreatTeacher?tab=repositories
+- https://github.com/taipeitechmmslab/MMSLAB-TF2
 
 # 互動式圖表
 
